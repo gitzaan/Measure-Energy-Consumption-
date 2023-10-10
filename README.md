@@ -12,11 +12,16 @@
 
 This project aims to develop an automated system for measuring, analyzing, and visualizing energy consumption data. The solution will enhance efficiency, accuracy, and ease of understanding in managing energy consumption across various sectors.
 
+## Project Description
+
+The system will use machine learning models to predict future energy consumption, provide an interactive dashboard for data exploration, and implement anomaly detection to identify unusual energy consumption patterns. The system will also automate data collection, analysis, and visualization processes, making it more efficient and less prone to human error.
+
 ## Features
 
 1. **Predictive Modeling**: The system will use machine learning models to predict future energy consumption.
 2. **Interactive Dashboard**: Users can interact with the data, change variables, and see the impact on predictions.
 3. **Anomaly Detection**: The system will identify unusual energy consumption patterns and alert decision-makers for immediate action.
+4. **Data Automation**: The system will automate data collection, analysis, and visualization processes, making the system more efficient and less prone to human error.
 
 ## Installation
 
