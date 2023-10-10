@@ -2,26 +2,42 @@
 
 ## Team Members
 
-| Name | Email |
-| --- | --- |
-| Fowzaan | fowzaan.rasheed@gmail.com |
-| Mohit S | smohit28.04@gmail.com |
-| Pronoy Kundu | pronoykundu513@gmail.com |
+| Name            | Email                          |
+| --------------- | ------------------------------ |
+| Fowzaan         | fowzaan.rasheed@gmail.com      |
+| Mohit S         | smohit28.04@gmail.com          |
+| Pronoy Kundu    | pronoykundu513@gmail.com       |
 
 ## Project Overview
 
-This project aims to develop an automated system for measuring, analyzing, and visualizing energy consumption data. The solution will enhance efficiency, accuracy, and ease of understanding in managing energy consumption across various sectors.
+This project aims to revolutionize the management of energy consumption data by developing an automated system for measuring, analyzing, predicting, and visualizing energy usage. Our goal is to enhance efficiency, accuracy, and decision-making across various sectors by harnessing the power of data science and machine learning.
 
-## Project Description
+## Project Phases
 
-The system will use machine learning models to predict future energy consumption, provide an interactive dashboard for data exploration, and implement anomaly detection to identify unusual energy consumption patterns. The system will also automate data collection, analysis, and visualization processes, making it more efficient and less prone to human error.
+### Phase 1: Problem Definition and Design Thinking
 
-## Features
+In Phase 1, we defined the problem and outlined our design thinking process. We identified the manual, time-consuming, and error-prone nature of energy consumption data collection and analysis as the core issue. The key features and steps envisioned at this stage include:
 
-1. **Predictive Modeling**: The system will use machine learning models to predict future energy consumption.
-2. **Interactive Dashboard**: Users can interact with the data, change variables, and see the impact on predictions.
-3. **Anomaly Detection**: The system will identify unusual energy consumption patterns and alert decision-makers for immediate action.
-4. **Data Automation**: The system will automate data collection, analysis, and visualization processes, making the system more efficient and less prone to human error.
+- **Predictive Modeling**: Using machine learning models to predict future energy consumption.
+- **Interactive Dashboard**: Creating a user-friendly dashboard for data exploration and impact analysis.
+- **Anomaly Detection**: Implementing mechanisms to identify unusual consumption patterns.
+- **Data Automation**: Automating data collection, analysis, and visualization processes.
+
+### Phase 2: Innovation and Practical Steps
+
+In Phase 2, we detailed the practical steps needed to bring our project to life, with a focus on innovation and efficiency. This phase includes:
+
+- **Data Collection and Enrichment**: Selecting a suitable dataset and supplementing it with external data sources like weather and holiday data to gain comprehensive insights.
+
+- **Data Preprocessing**: Cleaning, transforming, and preparing the data using Python libraries like Pandas and NumPy.
+
+- **Feature Extraction**: Extracting relevant features and metrics to better understand energy consumption patterns.
+
+- **Model Development**: Creating machine learning models, including XGBoost Regressor, LSTM Networks, and CNN-RNN hybrids, to predict future energy consumption.
+
+- **Visualization**: Building an interactive dashboard using Tableau for data exploration and variable impact analysis.
+
+- **Automation**: Developing a Python script to automate data collection, analysis, and visualization for increased efficiency.
 
 ## Installation
 
@@ -33,8 +49,12 @@ The system will use machine learning models to predict future energy consumption
 
 To run the system: `python main.py`
 
-
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Conclusion
+
+Our "Measure Energy Consumption" project is progressing rapidly, aiming to transform how we manage energy usage. With innovative features like predictive modeling, interactive dashboards, and anomaly detection, we are committed to making energy consumption management efficient, accurate, and user-friendly.
+
+Stay tuned for further updates as we continue to enhance our system and provide valuable insights into energy consumption patterns.
