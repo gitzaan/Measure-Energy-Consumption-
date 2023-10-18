@@ -14,47 +14,24 @@ This project aims to revolutionize the management of energy consumption data by 
 
 ## Project Phases
 
-### Phase 1: Problem Definition and Design Thinking
+- **Phase 1: Problem Definition and Design Thinking**
+  - Identified challenges in manual energy data collection and analysis.
+  - Key features include predictive modeling, interactive dashboards, and anomaly detection.
 
-In Phase 1, we defined the problem and outlined our design thinking process. We identified the manual, time-consuming, and error-prone nature of energy consumption data collection and analysis as the core issue. The key features and steps envisioned at this stage include:
+- **Phase 2: Innovation and Practical Steps**
+  - Focused on practical steps to bring the project to life.
+  - Included data collection, preprocessing, feature extraction, model development, visualization, and automation.
 
-- **Predictive Modeling**: Using machine learning models to predict future energy consumption.
-- **Interactive Dashboard**: Creating a user-friendly dashboard for data exploration and impact analysis.
-- **Anomaly Detection**: Implementing mechanisms to identify unusual consumption patterns.
-- **Data Automation**: Automating data collection, analysis, and visualization processes.
+- **Phase 3: Data Preparation**
+  - Cleaned the dataset and handled missing values.
+  - Data splitting, normalization, and reshaping for machine learning.
+  - Demonstrated data before and after normalization and reshaping.
+  - Prepared the Data for use in the LSTM model.
 
-### Phase 2: Innovation and Practical Steps
+## Conclusion
 
-In Phase 2, we detailed the practical steps needed to bring our project to life, with a focus on innovation and efficiency. This phase includes:
-
-- **Data Collection and Enrichment**: Selecting a suitable dataset and supplementing it with external data sources like weather and holiday data to gain comprehensive insights.
-
-- **Data Preprocessing**: Cleaning, transforming, and preparing the data using Python libraries like Pandas and NumPy.
-
-- **Feature Extraction**: Extracting relevant features and metrics to better understand energy consumption patterns.
-
-- **Model Development**: Creating machine learning models, including XGBoost Regressor, LSTM Networks, and CNN-RNN hybrids, to predict future energy consumption.
-
-- **Visualization**: Building an interactive dashboard using Tableau for data exploration and variable impact analysis.
-
-- **Automation**: Developing a Python script to automate data collection, analysis, and visualization for increased efficiency.
-
-## Installation
-
-1. Clone the repository: `git clone https://github.com/YourUsername/AI_Phase1.git`
-2. Navigate to the project directory: `cd AI_Phase1`
-3. Install necessary dependencies: `pip install -r requirements.txt`
-
-## Usage
-
-To run the system: `python main.py`
+In Phase 3, we prepared our energy consumption data for machine learning. We cleaned the dataset, split it for training and testing, and normalized it for model compatibility. We visualized data transformations before and after normalization and reshaping for LSTM modeling. These steps set the stage for our upcoming model development in Phase 4.
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Conclusion
-
-Our "Measure Energy Consumption" project is progressing rapidly, aiming to transform how we manage energy usage. With innovative features like predictive modeling, interactive dashboards, and anomaly detection, we are committed to making energy consumption management efficient, accurate, and user-friendly.
-
-Stay tuned for further updates as we continue to enhance our system and provide valuable insights into energy consumption patterns.
