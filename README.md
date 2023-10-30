@@ -10,27 +10,24 @@
 
 ## Project Overview
 
-This project aims to revolutionize the management of energy consumption data by developing an automated system for measuring, analyzing, predicting, and visualizing energy usage. Our goal is to enhance efficiency, accuracy, and decision-making across various sectors by harnessing the power of data science and machine learning.
+This project demonstrates the application of advanced time series analysis and machine learning techniques in forecasting and anomaly detection. The project uses a dataset of hourly electricity production data from the American Electric Power (AEP) to predict future electricity production and detect anomalies in the data.
+
+## Dataset 
+
+  Dataset Link : [Kaggle](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?select=AEP_hourly.csv)
+  - This is a timeseries dataset that contains hourly energy consumption in MegaWatts. The data spans from 2004 to 2018 and contains 121,273 data points.
 
 ## Project Phases
+  - Phase 1 : Problem Definition
+  - Phase 2 : Innovation and Design Thinking
+  - Phase 3 : Data Preprocessing and Visualization
+  - Phase 4 : Model training and Evaluation
+  - Phase 5 : Documentation
 
-- **Phase 1: Problem Definition and Design Thinking**
-  - Identified challenges in manual energy data collection and analysis.
-  - Key features include predictive modeling, interactive dashboards, and anomaly detection.
+## How to Run the Project 
 
-- **Phase 2: Innovation and Practical Steps**
-  - Focused on practical steps to bring the project to life.
-  - Included data collection, preprocessing, feature extraction, model development, visualization, and automation.
-
-- **Phase 3: Data Preparation**
-  - Cleaned the dataset and handled missing values.
-  - Data splitting, normalization, and reshaping for machine learning.
-  - Demonstrated data before and after normalization and reshaping.
-  - Prepared the Data for use in the LSTM model.
-
-## Conclusion
-
-In Phase 3, we prepared our energy consumption data for machine learning. We cleaned the dataset, split it for training and testing, and normalized it for model compatibility. We visualized data transformations before and after normalization and reshaping for LSTM modeling. These steps set the stage for our upcoming model development in Phase 4.
+How to Run the Project
+To run this project, clone the repository to your local machine and navigate to the project directory. Install the necessary Python libraries by running pip install -r [requirements.txt](requirements.txt). Then, you can run the project by executing the main Python script with python [main.py](main.py).
 
 ## License
 
