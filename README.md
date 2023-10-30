@@ -26,8 +26,7 @@ This project demonstrates the application of advanced time series analysis and m
 
 ## How to Run the Project 
 
-How to Run the Project
-To run this project, clone the repository to your local machine and navigate to the project directory. Install the necessary Python libraries by running pip install -r [requirements.txt](requirements.txt). Then, you can run the project by executing the main Python script with python [main.py](main.py).
+To run this project, clone the repository to your local machine and navigate to the project directory. Install the necessary Python libraries by running pip install -r  [requirements.txt](requirements.txt). Then, you can run the project by executing the main Python script with python [main.py](main.py).
 
 ## License
 
