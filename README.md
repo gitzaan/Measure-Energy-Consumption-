@@ -10,19 +10,19 @@
 
 ## Project Overview
 
-This project demonstrates the application of advanced time series analysis and machine learning techniques in forecasting and anomaly detection. The project uses a dataset of hourly electricity production data from the American Electric Power (AEP) to predict future electricity production and detect anomalies in the data.
+This project demonstrates the application of advanced time series analysis and machine learning techniques in forecasting and anomaly detection. The project uses a dataset of hourly electricity production data from American Electric Power (AEP) to predict future electricity production and detect anomalies in the data.
 
 ## Dataset 
 
   Dataset Link : [Kaggle](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?select=AEP_hourly.csv)
-  - This is a timeseries dataset that contains hourly energy consumption in MegaWatts. The data spans from 2004 to 2018 and contains 121,273 data points.
+  - This is a time-series dataset that contains hourly energy consumption in MegaWatts. The data spans from 2004 to 2018 and contains 121,273 data points.
 
 ## Project Phases
-  - Phase 1 : Problem Definition
-  - Phase 2 : Innovation and Design Thinking
-  - Phase 3 : Data Preprocessing and Visualization
-  - Phase 4 : Model training and Evaluation
-  - Phase 5 : Documentation
+  - Phase 1: Problem Definition
+  - Phase 2: Innovation and Design Thinking
+  - Phase 3: Data Preprocessing and Visualization
+  - Phase 4: Model Training and Evaluation
+  - Phase 5: Documentation
 
 ## How to Run the Project 
 
